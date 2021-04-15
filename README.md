@@ -1,6 +1,6 @@
-## 👋 Hello World! I’m @RobertasPetrokas ##
+### 👋 Hello World! I’m @RobertasPetrokas ###
 
-## 🌱 A second-year Software Engineering student at Vilnius Gediminas Technical University ##
+### 🌱 A second-year Software Engineering student at Vilnius Gediminas Technical University ###
 
 ## 📫 You can reach me by: ##
 
