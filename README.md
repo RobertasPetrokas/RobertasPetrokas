@@ -1,8 +1,8 @@
-##👋 Hello World! I’m @RobertasPetrokas
+## 👋 Hello World! I’m @RobertasPetrokas ##
 
-##🌱 A second-year Software Engineering student at Vilnius Gediminas Technical University.
+## 🌱 A second-year Software Engineering student at Vilnius Gediminas Technical University ##
 
-##📫 You can reach me by:
+## 📫 You can reach me by: ##
 
     - Email: petrokas.robertas@gmail.com 
     - Discord: Makantoshas#2110
