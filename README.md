@@ -1,6 +1,6 @@
 ### 👋 Hello World! I’m @RobertasPetrokas ###
 
-### 🌱 Software Engineering student at Vilnius Gediminas Technical University ###
+### 🌱 Software Engineer @ Devbridge, a Cognizant company ###
 
 ### 📫 You can reach me by: ###
    - Email: petrokas.robertas@gmail.com
